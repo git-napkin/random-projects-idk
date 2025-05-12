@@ -2,7 +2,7 @@ import random
 import string
 
 def generate_code():
-    """10 chances at gambling a free robux gift card!! yipee"""
+    """10 chances at gambling a free robux gift card!!"""
     chars = string.ascii_uppercase + string.digits
     
     groups = []
